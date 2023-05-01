@@ -90,3 +90,18 @@ h3, h4,p,li {
   text-align: center;
   background: #ddd;
 }
+
+.blogbody {
+  width: 80%;
+  padding: 25px;
+  margin: 80px;
+  display: block;
+}
+#blogdiagram {
+  background-image: url(../images/Screen\ Shot\ 2023-04-21\ at\ 7.55.19\ AM.png);
+  background-size: 100% 100% ;
+  width:500px;
+  height: 250px;
+  border: solid black 1px;
+  background-position-x: center;
+}

@@ -105,3 +105,7 @@ h3, h4,p,li {
   border: solid black 1px;
   background-position-x: center;
 }
+
+img {
+  border: 1px solid black;
+}
